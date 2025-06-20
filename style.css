@@ -345,7 +345,27 @@ footer {
     color: white !important;
 }
 
+@media screen and (min-width: 425px) {
+    .section {
+        margin-top: 30px;
+        margin-bottom: 50px;
+    }
+    .img-fluid {
+        margin-top: 30px;
+        
+    }
+}
 
+@media screen and (min-width: 320px) {
+    .section {
+        margin-top: 30px;
+        margin-bottom: 50px;
+    }
+    .img-fluid {
+        margin-top: 30px;
+        
+    }
+}
 @media screen and (min-width: 375px) {
     .section {
         margin-top: 30px;
