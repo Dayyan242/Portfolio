@@ -345,7 +345,7 @@ footer {
     color: white !important;
 }
 
-@media screen and (min-width: px) {
+@media screen and (min-width: 425px) {
     .section {
         margin-top: 30px;
         
