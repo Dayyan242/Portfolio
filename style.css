@@ -131,7 +131,7 @@ h3 {
 }
 
 .navbar-brand:hover {
-    color: white;
+    color: black;
 }
 
 .nav-link:hover {
@@ -376,3 +376,4 @@ footer {
         
     }
 }
+
